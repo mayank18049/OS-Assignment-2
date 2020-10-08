@@ -12,7 +12,7 @@
 
 
 ## Instructions for Question-2
-1. Copy your diff in the given diff.txt
+1. Copy your diff in the given diff.txt (No screenshots or pdfs are accepted)
 2. Use test.c to test your implemented syscall and error handling
 3. You don't need to change the Makefile provided.
 4. Submit the writeup as writeup.pdf
