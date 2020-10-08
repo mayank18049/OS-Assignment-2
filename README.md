@@ -2,6 +2,8 @@
 
 ## Do not add any extra files. Stricly follow the format given below.
 
+## Fill your Name and Roll_number field in the top of every C file.
+
 ## Instructions for Question-1
 1. Use Q1_part1.c for fork()
 2. Use Q1_part2.c for pthreads
