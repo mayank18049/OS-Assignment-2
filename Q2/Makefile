@@ -1,6 +1,6 @@
 compile:
 	gcc test.c
 
-run:
+run: compile
 	./a.out
 
