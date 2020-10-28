@@ -1,12 +1,12 @@
 compile1:
-# 	Compile your code for first part here
+  gcc proc.c -o proces.out
 
 run1: compile1
-# 	 Execute part 1 here
+  ./proces.out
 
 compile2:
-# 	Compile your code for second part here
+  gcc pthread2.c -o pthrea.out
 
 run2: compile2
-#	Execute part 2 here
+  ./pthrea.out
 
